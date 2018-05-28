@@ -1,0 +1,39 @@
+	body{
+		background-color: #D1D0CE; 
+		height: 95vh;
+		margin: 0;
+	}
+	*{
+		font-family: Arial;	
+		text-align: center;
+	 	}
+	#container{
+		background-color: #E5E4E2;
+		width: 90%;
+		height: 90%;
+		margin: auto;
+		}
+	h2,footer{ 	
+		font-family: Broadway;
+		}
+	button{
+		padding: 0.5%;
+		cursor: pointer;
+  		-webkit-transition: background .85s ease-in-out;
+ 		-moz-transition: background .85s ease-in-out;
+  		-o-transition: background .85s ease-in-out;
+ 		transition: background .85s ease-in-out;
+		}
+	button:hover{
+		background: #E77471;
+		padding: 1%;
+		color: #FFFFFF;
+		}
+	.foot{
+		background-color: #E77471;
+		margin: auto;
+		width: 90%;
+		}
+	footer{
+		color: white;
+		}
